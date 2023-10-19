@@ -5,6 +5,7 @@ A database of Maritime Pirate Attacks focused on Indonesian Waters.
 The original data was sourced from the International Maritime Bureau (IMB) and supplemented with additional information gathered from reputable maritime security sources and relevant governmental agencies. The dataset covers reported piracy incidents spanning the period from January 1993 to December 2020, focusing specifically on the Indonesian maritime region.
 # Data Model
 The dataset comprises essential attributes related to reported pirate attacks, incorporating the following variables:
+
 Longitude: Indicates the geographical longitude of the attack location, providing specific spatial coordinates.
 Latitude: Represents the geographical latitude of the attack location, providing precise spatial coordinates.
 Attack Type: Categorizes the type of attack as either ‘Attempted’, ‘Boarding’, ’Boarded’ ‘Hijacked’, ’Suspicious’ or ‘NA’ for missing data.
